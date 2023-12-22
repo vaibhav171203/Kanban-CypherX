@@ -3,7 +3,6 @@
 ## Contents 
 - [Introduction](#introduction)
 - [Live](#live)
-- [Demo](#demo)
 - [Tech Stack](#tech-stack)
 
 ## Introduction 
@@ -30,10 +29,6 @@ Users should also be able to sort the displayed tickets in two ways:
 
 ## Live 
 **Live Link** : https://agr-kanban-board.netlify.app/
-
-## Demo
-![kanban-board](https://github.com/agrSaket/Kanban-Board/assets/134057654/96467fac-deda-46eb-84e0-e642440b6c79)
-
 
 ## Tech Stack
 - HTML
